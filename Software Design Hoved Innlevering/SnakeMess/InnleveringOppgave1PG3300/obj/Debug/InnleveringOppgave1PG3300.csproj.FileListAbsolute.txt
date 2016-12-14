@@ -1,0 +1,12 @@
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.exe.config
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.exe
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.pdb
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.csprojResolveAssemblyReference.cache
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.exe
+C:\Users\sathi\Desktop\InnleveringOppgave1PG3300-master\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.pdb
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.exe.config
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.exe
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.pdb
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.exe
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\bin\Debug\InnleveringOppgave1PG3300.pdb
+C:\Users\sathi\Desktop\SnakeMess\InnleveringOppgave1PG3300\obj\Debug\InnleveringOppgave1PG3300.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe.config
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\obj\Debug\CookieBakery.csprojResolveAssemblyReference.cache
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\bin\Debug\CookieBakery.pdb
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\obj\Debug\CookieBakery.exe
+c:\users\sathi\documents\visual studio 2015\Projects\CookieBakery\CookieBakery\obj\Debug\CookieBakery.pdb
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe.config
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\obj\Debug\CookieBakery.exe
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\obj\Debug\CookieBakery.pdb
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\bin\Debug\CookieBakery.pdb
+C:\Users\sathi\Desktop\CookieBakery\CookieBakery\obj\Debug\CookieBakery.csprojResolveAssemblyReference.cache
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe.config
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\obj\Debug\CookieBakery.exe
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\obj\Debug\CookieBakery.pdb
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\bin\Debug\CookieBakery.exe
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\bin\Debug\CookieBakery.pdb
+D:\Google Drive\Uni\PG3300 Software Design\Innlevering 1\Oppgave3\CookieBakery\CookieBakery\obj\Debug\CookieBakery.csprojResolveAssemblyReference.cache

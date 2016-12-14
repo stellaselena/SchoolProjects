@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CookieBakery.Bakery">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAAAABAAAAAQCBAAAAAAAAAAAAAAQAAIAAAAACA=</HashCode>
+      <FileName>Bakery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookieBakery.BaseCookie" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>BaseCookie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CookieBakery.ChocolateDecorator">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChocolateDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookieBakery.CookieBakeryProgram">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEABQAAAQABAAAAEAAAIIABAAAAAA=</HashCode>
+      <FileName>CookieBakeryProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookieBakery.CookieDecorator">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>CookieDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CookieBakery.CookieFactory">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>CookieFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookieBakery.Customer">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABAAAAEAAAAAIAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookieBakery.VanillaDecorator">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VanillaDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CookieBakery.ICookie">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>CookieInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
