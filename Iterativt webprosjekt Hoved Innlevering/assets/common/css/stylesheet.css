@@ -1,0 +1,395 @@
+/*
+* ======================================================
+* IMPORT EXTERNAL CSS
+* ======================================================
+*/
+
+@import "../../lib/bootstrap-3.3.6/css/bootstrap.css";
+@import "../../lib/font-awesome-4.5.0/css/font-awesome.css";
+
+/*
+* ======================================================
+* MAIN
+* ======================================================
+*/
+
+body {
+    padding-top: 50px;
+}
+
+.jumbotron a {
+    color: white;
+}
+#content .fa-5x{
+    color:#333;
+}
+a h2{
+    color:#333;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    background: #333;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #337ab7;
+    height: 80px;
+}
+::-webkit-scrollbar-button {
+    background-color: #333;
+}
+.nav-custom > li > a {
+    text-transform: uppercase;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    text-decoration: underline;
+}
+.home-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+}
+.jumbotron {
+    -webkit-clip-path: polygon(100% 0, 100% 60%, 50% 100%, 0 60%, 0 0);
+    clip-path: polygon(100% 0, 100% 60%, 50% 100%, 0 60%, 0 0);
+    height: 500px;
+    background: linear-gradient(rgba(12, 12, 37, 0.6), rgba(12, 12, 37, 0.6)), url("../img/food2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.jumbotron .container {
+    color: white;
+}
+.jumbotron .container i {
+    margin-top:100px;
+    animation-name: fade;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+
+}
+.om-oss-header{
+    width:100%;
+    height:200px;
+    text-align: center;
+    margin-top:70px;
+    margin-bottom: 100px;
+}
+.head-line{
+    width:70%;
+}
+
+#button-one {
+    margin-top: 100px;
+}
+#content {
+    margin-top: 0px;
+    text-align: center;
+}
+#content h1 {
+    padding: 40px;
+    font-size: 4em;
+    color: green;
+}
+#col2 {
+    margin-top: 80px;
+}
+.footer {
+   /* -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0, 50% 40%);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0, 50% 40%); */
+    -webkit-clip-path: polygon(50% 20%, 100% 0, 100% 100%, 50% 100%, 0 100%, 0 0);
+clip-path: polygon(50% 20%, 100% 0, 100% 100%, 50% 100%, 0 100%, 0 0);
+    height: 800px;
+    padding-top: 350px;
+    background: #E8e8e8;
+
+    height: 750px;
+    padding-top: 225px;
+    background: #E0E0E0;
+
+}
+.footersize{
+    font-size: 10pt;
+}
+/************ START MATTIPS.PHP styles *****************/
+
+.send-food-tips {
+    width: 100%;
+    height: 650px;
+    padding: inherit;
+    -webkit-clip-path: polygon(100% 0, 100% 60%, 50% 100%, 0 60%, 0 0);
+    clip-path: polygon(100% 0, 100% 60%, 50% 100%, 0 60%, 0 0);
+    margin: 0 0%;
+    
+}
+.send-food-tips-wrapper {
+    width: 50%;
+    margin: 10px 25%;
+}
+.send-food-tips-wrapper h1 {
+    color: #333;
+    text-align: center;
+}
+.idea-icon {
+    margin: 0 45%;
+    
+}
+form {
+    width: 100%;
+    margin: 10px 0%;
+    font-size: 1.4em;
+}
+::-webkit-input-placeholder {
+    color: #333;
+}
+input[type='email'] {
+    width: 90%;
+    height: 50px;
+    float: left;
+    margin: 5px 5%;
+    border: 2px solid #333;
+    text-indent: 5px;
+}
+input[type='file'] {
+    margin: 5px 5%;
+    border: 2px solid #333;
+    background: white;
+    width: 90%;
+}
+form textarea {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+textarea {
+    width: 90%;
+    height: 100px;
+    float: left;
+    margin: 0 5%;
+    border: 2px solid #333;
+    text-indent: 5px;
+}
+.fileUpload {
+    border-radius: inherit;
+    margin: 5px 5%;
+    border: none;
+    background: #337ab7;
+    border: 2px solid #2e6da4;
+    width: 90%;
+    height: 50px;
+    font-size: 1em;
+    line-height: 250%;
+    float: left;
+    text-indent: 5px;
+}
+span {
+    color: white;
+}
+input[type='submit'] {
+    margin: 10px 5%;
+    width: 90%;
+    height: 70px;
+    border: #0000FF;
+    background: #337ab7;
+    color: #fff;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 30%, 50% 100%, 0 30%);
+    clip-path: polygon(0 0, 100% 0, 100% 30%, 50% 100%, 0 30%);
+    transition: 0.4s;
+}
+#empty {
+    display: none;
+}
+input[type='submit']:hover {
+    background: #0066FF;
+    transition: 0.4s;
+    border: 2px solid #0000FF;
+}
+/************ END OF mattips.php styles *****************/
+
+
+/************ START OF matplan.php styles *****************/
+
+.matplan-description {
+    height: 50px;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    padding-bottom: 150px;
+}
+.matplan-description h1 {
+    text-align: center;
+}
+.matplan-container {
+    width: 100%;
+    height: 600px;
+    margin-top: 100px;
+    margin-bottom:200px;
+}
+.matplan-container-wrapper {
+    width: 70%;
+    margin: 30px 15%;
+    height: 100%;
+}
+.mandag, .tirsdag, .onsdag, .torsdag, .fredag, .lørdag {
+    width: 30%;
+    margin: 1.3333%;
+    float: left;
+    box-sizing: border-box;
+    height: 50%;
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    z-index: 1;
+}
+.torsdag, .fredag, .lørdag {
+    margin-top: 50px;
+}
+.mandag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/food2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.tirsdag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/pasta.jpg");
+    background-position: 15% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.onsdag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/taco.jpg");
+    background-position: 70% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.torsdag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/lasagne.jpg");
+    background-position: 40% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.fredag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/fish.jpg");
+    background-position: 40% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.lørdag {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(12, 12, 37, 0.6)), url("../img/beer.jpg");
+    background-position: 15% 20%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.mandag-header, .tirsdag-header, .onsdag-header, .torsdag-header, .fredag-header, .lørdag-header {
+    height: 50%;
+    color: white;
+    /*background:rgba(0,0,0,.4);*/
+
+    margin-top: 35%;
+}
+
+/*********** TABLET DEVICE ******************/
+@media (max-width: 768px) {
+    .mandag, .tirsdag, .onsdag, .torsdag, .fredag, .lørdag {
+        width: 45%;
+        float: left;
+        box-sizing: border-box;
+        height: 20%;
+        
+    }
+    #img-two{
+    margin-top:50px;
+}
+    .matplan-container {
+        width: 100%;
+        height: 1000px;
+    }
+    .torsdag, .fredag, .lørdag {
+        margin-top: 0;
+    }
+    .matplan-description {
+        height: 50px;
+        text-align: center;
+        width: 100%;
+        margin-top: 100px;
+    }
+    .onsdag, .torsdag, .fredag, .lørdag {
+        margin-top: 20px;
+    }
+}
+
+/************** PHONE DEVICE **************/
+@media (max-width: 468px) {
+    .mandag, .tirsdag, .onsdag, .torsdag, .fredag, .lørdag {
+        width: 80%;
+        float: left;
+        box-sizing: border-box;
+        height: 250px;
+        margin:20px 10%;
+    }
+     .matplan-container {
+        width: 100%;
+        height: 1400px;
+    }
+    
+}
+
+/************ END OF matplan.php styles *****************/
+label {
+    font-weight: normal;
+}
+
+/************ Start of OF om_oss.php styles *****************/
+      #map {
+
+        width: 100%;
+        height: 450px;
+          padding-top:200px;
+          padding-bottom:300px;
+          margin-bottom:-230px;
+          margin-top:100px;
+      }
+p{
+    font-size: 13pt;
+}
+/************ END of om_oss.php styles *****************/
+/************* CSS ANIMATIONS *******************/
+@keyframes fade {
+    0%   {opacity: 1;}
+    25%  {opacity: 0;}
+    50%  {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+.list-group-item > label {
+    width: 100%;
+}
+
+.table-popover {
+    margin: 0;
+}
