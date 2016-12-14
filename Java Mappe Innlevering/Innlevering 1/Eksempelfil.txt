@@ -1,0 +1,7 @@
+Navn/Adresse/Alder/Mail
+VARCHAR/VARCHAR/INT/VARCHAR
+128/128/3/128
+Donald Duck/Uflaksveien 13/60/asd
+Fetter Anton/Flakseveien 1/50/asd
+Dolly Duck/Andebygården 2/55/asd
+Stella Jovanovic/Sandakerveien 2/20/asd
