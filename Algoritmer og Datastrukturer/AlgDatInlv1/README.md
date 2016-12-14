@@ -1,0 +1,2 @@
+# AlgDatInlv1_dalSamJovStella
+AlgDat Innlevering1
